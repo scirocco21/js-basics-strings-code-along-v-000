@@ -2,3 +2,5 @@
 let currentUser = "Seb";
 
 const welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
+
+const excitedWelcomeMessage = 
